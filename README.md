@@ -151,7 +151,7 @@ Designed to ensure **consistent and repeatable results**, aligning with real-wor
 
 **Prakhar Dwivedi**
 B.Tech – NIT Andhra Pradesh
-Aspiring ML / AI Engineer
+ML / AI Engineer
 
 ---
 
