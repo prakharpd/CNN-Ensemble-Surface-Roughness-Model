@@ -58,7 +58,7 @@ This project addresses the problem by:
 ### 1. Image Preprocessing
 
 * Image resizing and normalization
-* Data augmentation to improve generalization
+* No Data augmentation as each surface patterns are unique.
 
 ### 2. CNN-Based Feature Extraction
 
