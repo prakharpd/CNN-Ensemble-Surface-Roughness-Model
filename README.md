@@ -1,6 +1,6 @@
 # Surface Roughness Prediction using CNN + ML Ensemble
 
-## 🔍 Project Summary (GitHub + ATS Optimized)
+## 🔍 Project Summary
 
 **Domain:** Machine Learning, Deep Learning, Computer Vision, Manufacturing Analytics
 **Role Alignment:** ML Engineer | AI Engineer | Data Scientist | Computer Vision Engineer
