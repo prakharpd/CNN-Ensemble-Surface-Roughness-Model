@@ -8,6 +8,7 @@
 This project implements an **end-to-end machine learning pipeline** for predicting **surface roughness (Ra)** of **Inconel material** using a **hybrid CNN + machine learning ensemble approach**. The system combines **image-based feature extraction** from microscopic surface images with **numerical machining parameters**, followed by **ensemble regression** for accurate prediction.
 
 The focus of this project is on **robust ML system design**, effective **feature fusion**, and **reproducibility**, rather than black-box end-to-end learning.
+Video: https://drive.google.com/file/d/1O0Fqksh8wsjKsUJNcq4yzmxeFYI2mqe0/view
 
 ---
 
