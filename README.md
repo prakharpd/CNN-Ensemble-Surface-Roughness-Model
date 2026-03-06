@@ -156,4 +156,5 @@ This project is intended for academic and research purposes. Commercial usage re
 
 * This model was further used as Pre-Trained Mode for Real Time Surface Roughness Predicition.
 * Images can not be uploaded into Github. As it exceeds storage limit.
-* If you are going to use it for your research work, do mention authour and this repo link for reference.
+* Like the repository if you find it helpful.
+* For any improvement in code base feel free to reach out.
