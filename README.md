@@ -50,7 +50,7 @@ This project addresses the problem by:
 * **Image Naming Convention:** `SampleX_ImageY.png`
 * Each image is associated with a unique machining condition and measured surface roughness value
 
-> Note: Dataset is experimental and intended for academic/research use.
+> Note: Dataset is experimental and intended for academic/research use. With an objective of Industrial Level implementation.
 
 ---
 
