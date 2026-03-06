@@ -148,13 +148,7 @@ Designed to ensure **consistent and repeatable results**, aligning with real-wor
 
 ---
 
-## 👨‍💻 Author
 
-**Prakhar Dwivedi**
-B.Tech – NIT Andhra Pradesh
-ML / AI Engineer
-
----
 
 ## 📄 License
 
