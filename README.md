@@ -1,6 +1,6 @@
 # Surface Roughness Prediction using CNN + ML Ensemble
 
-## 🔍 Project Summary
+##  Project Summary
 
 **Domain:** Machine Learning, Deep Learning, Computer Vision, Manufacturing Analytics
 **Role Alignment:** ML Engineer | AI Engineer | Data Scientist | Computer Vision Engineer
@@ -12,7 +12,7 @@ Video: https://drive.google.com/file/d/1O0Fqksh8wsjKsUJNcq4yzmxeFYI2mqe0/view
 
 ---
 
-## 🧠 Key Skills & Technologies (ATS Keywords)
+##  Key Skills & Technologies (ATS Keywords)
 
 * Machine Learning & Deep Learning
 * Convolutional Neural Networks (CNN)
@@ -28,7 +28,7 @@ Video: https://drive.google.com/file/d/1O0Fqksh8wsjKsUJNcq4yzmxeFYI2mqe0/view
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 
 Surface roughness is a critical quality metric in machining processes. Traditional analytical and empirical models struggle to generalize under limited experimental data and complex surface textures.
 
@@ -40,7 +40,7 @@ This project addresses the problem by:
 
 ---
 
-## 📂 Data Description
+##  Data Description
 
 * **Material:** Inconel
 * **Data Type:**
@@ -54,7 +54,7 @@ This project addresses the problem by:
 
 ---
 
-## 🧩 System Architecture
+##  System Architecture
 
 ### 1. Image Preprocessing
 
@@ -84,7 +84,7 @@ This project addresses the problem by:
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 ├── CNN_Ensemble_V1.ipynb
@@ -99,7 +99,7 @@ This project addresses the problem by:
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 * **Programming Language:** Python
 * **Deep Learning:** TensorFlow, Keras
@@ -110,7 +110,7 @@ This project addresses the problem by:
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone the repository
 2. Install required dependencies
@@ -120,7 +120,7 @@ This project addresses the problem by:
 
 ---
 
-## 🔁 Reproducibility & ML Best Practices
+##  Reproducibility & ML Best Practices
 
 * Controlled data splits
 * Model checkpointing
@@ -130,7 +130,7 @@ Designed to ensure **consistent and repeatable results**, aligning with real-wor
 
 ---
 
-## 🧪 Applications
+##  Applications
 
 * Smart Manufacturing Systems
 * Automated Quality Control
@@ -139,7 +139,7 @@ Designed to ensure **consistent and repeatable results**, aligning with real-wor
 
 ---
 
-## 📈 Key Contributions
+##  Key Contributions
 
 * Designed a **custom CNN feature extractor** for surface texture analysis
 * Implemented **feature-level fusion** of vision and numerical data
@@ -150,7 +150,7 @@ Designed to ensure **consistent and repeatable results**, aligning with real-wor
 
 
 
-## 📄 License
+##  License
 
 This project is intended for academic and research purposes. Commercial usage requires prior permission.
 
