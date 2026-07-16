@@ -154,8 +154,8 @@ Designed to ensure **consistent and repeatable results**, aligning with real-wor
 
 This project is intended for academic and research purposes. Commercial usage requires prior permission.
 
-* Simillar model was further used as Pre-Trained Mode for Real Time Surface Roughness Predicition.
+* 'Simillar' model was further used as Pre-Trained Mode for Real Time Surface Roughness Predicition.
 * Added comments in each line of code because we have to submit our project progress on weekly basis hence we need to justify each lines of code.
-* Images can not be uploaded into Github. As it exceeds storage limit.
+* Not uploaded images folder in this Github repo.
 * Like the repository if you find it helpful.
 * For any improvement in code base feel free to reach out.
