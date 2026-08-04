@@ -1,3 +1,5 @@
+* [!] Added comments in each line of code because we have to submit our project progress on weekly basis hence we need to justify each lines of code.
+
 # Surface Roughness Prediction using CNN + ML Ensemble
 
 ##  Project Summary
